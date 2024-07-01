@@ -3,3 +3,6 @@ The decoder and encoder only foundational model code is part of Databricks LLMs:
 Llama 3 from scratch code is adopted from Naklecha's github repo: [Llama 3 from Scratch](https://github.com/naklecha/llama3-from-scratch/tree/main).
 
 To get more insights in the transformer architectures, one can also look at Harvard's annotated transformer from scratch links: [Link 1](https://nlp.seas.harvard.edu/2018/04/03/attention.html) [Link 2](https://nlp.seas.harvard.edu/annotated-transformer/).
+
+I am currently following Andrej Karpathy's youtube channel for implementing the GPT-2 Architecture from scratch: [Andrej Karpathy Youtube Channel](https://www.youtube.com/@AndrejKarpathy).
+
